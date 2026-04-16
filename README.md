@@ -3,6 +3,10 @@
 WebChat Overlay is a Chrome extension + local Python API that adds a floating assistant to any webpage.
 It answers questions using page context, can trigger helpful page actions, and optionally uses web search.
 
+https://www.youtube.com/watch?v=ZG4TR8SZWNk
+
+[![WebChat Demo](https://github.com/user-attachments/assets/05fd4ee9-b272-4a3f-846f-b38f776fd86e)](https://www.youtube.com/watch?v=ZG4TR8SZWNk)
+
 ## How It Works
 
 1. The extension injects a floating chat widget into pages (`content.js` + `styles.css`).
